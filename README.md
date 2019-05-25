@@ -11,7 +11,7 @@ I am working as the Technical Lead at Applozic Inc. With almost 5 years of exper
 
 ## What I have done so far
 
-<a href="https://Kommunicate.io"><img src="https://i.ibb.co/tx0YDGb/Screenshot-2019-05-25-at-3-45-59-PM.png" alt="Screenshot-2019-05-25-at-3-45-59-PM" border="0" style ="float:left; padding: 20px 40px"></a>
+<a href="https://Kommunicate.io"><img src="https://i.ibb.co/74MbHz2/kommunicate-logo.png" alt="Screenshot-2019-05-25-at-3-45-59-PM" border="0" style ="float:left; padding: 20px 40px"></a>
 <strong>Kommunicate: Human + Bot Hybrid Customer Support Software </strong> <br>
   Technical Lead At Applozic Inc, since June 2017<br>
   My Team works on building saclable APIs and amazing user experience for Kommunicate users. I helped to carry out the top to   bottom designing and implementation of the backend server and Dialogflow integration. Currently my team is working on the     Kommunicate chat bot platform to help customer support agents to automate their daily tasks. <br> <br>
