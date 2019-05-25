@@ -38,9 +38,9 @@ In this article I will show you how to create a simple Chatbot using Dialogflow.
 ## This is my System
 
 * Pursue passions, not paychecks
-* Beleive in change
+* Believe in change
 * Priotise customer
-* Discus ideas, not person
+* Discuss ideas, not person
 * Be lazy and stay hungry
 
 
