@@ -1,6 +1,6 @@
 ## About me
 
-<img src="https://i.ibb.co/Vxmhp4J/voldemort.jpg" alt="voldemort" border="0" style ="float:left;"></a>
+<img src="https://i.ibb.co/Vxmhp4J/voldemort.jpg" alt="voldemort" border="0" style ="float:left; padding: 0px 5px">
 Born to be a coder. I wrote Hello World first time when I was 14 and now I can write it in C, C++, Java, Javascript, python, visual basic, C# and still learning new ways to write it.<br>
 When I am not coding you can find me playing Badminton, Table tennis, Carrom, and Chess.<br>
 I turn into a philospher after few drinks and can debate you on the Life, Death, Happiness, sprituality etc. 
