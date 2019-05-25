@@ -33,7 +33,7 @@ OAuth stands for Open Authorization. It’s a free and open protocol, built on I
 A Beginners guide to chat bot using dialogflow was written when I was working on the Dialogflow integration with Kommunicate. It summerise the basic steps, tool and technology used along with the source code link from github.
 <br>
 <a href="https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5"><img src="https://i.ibb.co/qFNjZTF/1-k-L6-B1-Mf-NCnu4u-H0m9-D1-XYw.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px" ></a> 
-In this article I will show you how to create a simple Chatbot using Dialogflow. You will find here details about the tools and the technology used for the purpose. The article also has a walkthrough of Dialogflow (previously API.ai) and outlines the chronological flow.... [Read full article](https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5) <br> <br>
+In this article I will show you how to create a simple Chatbot using Dialogflow. You will find here details about the tools and the technology used for the purpose. The article also has a walkthrough of Dialogflow (previously API.ai) and outlines the chronological flow.... [Read full article](https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5) <br> <br><br><br>
 
 ## This is my System
 
@@ -46,9 +46,9 @@ In this article I will show you how to create a simple Chatbot using Dialogflow.
 
 ## Get in a touch 
 
-<a href="https://www.linkedin.com/in/suraj-kumar-358317a3/"><img src="https://i.ibb.co/Yy3J9Xz/svvszaufolhr4jkwl7vz.jpg" alt="linkedin" border="0" style ="float:left; padding: 20px 20px">  </a>
+<a href="https://www.linkedin.com/in/suraj-kumar-358317a3/"><img src="https://i.ibb.co/Yy3J9Xz/svvszaufolhr4jkwl7vz.jpg" alt="linkedin" border="0" style ="float:left; padding: 20px 20px; height:100px;width:100px ">  </a>
 
-<a href="https://www.facebook.com/suraj.srk"><img src="https://i.ibb.co/grNSy6Z/c6f98156-65da-4ba4-92f0-26cbd42c82db-tbqkkp.png" alt="facebook" border="0" style ="float:left; padding: 20px 20px"></a>
+<a href="https://www.facebook.com/suraj.srk"><img src="https://i.ibb.co/grNSy6Z/c6f98156-65da-4ba4-92f0-26cbd42c82db-tbqkkp.png" alt="facebook" border="0" style ="float:left; padding: 20px 20px; height:100px;width:100px"></a>
 
-<a href="https://stackoverflow.com/users/3949639/suraj?tab=profile"><img src="https://i.ibb.co/FgZbz4m/stackoverflow.png" alt="stackoverflow" border="0" style ="float:left; padding: 20px 20px"></a>
+<a href="https://stackoverflow.com/users/3949639/suraj?tab=profile"><img src="https://i.ibb.co/FgZbz4m/stackoverflow.png" alt="stackoverflow" border="0" style ="float:left; padding: 20px 20px; height:100px;width:100px"></a>
 
