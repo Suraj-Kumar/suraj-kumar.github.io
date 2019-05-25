@@ -1,14 +1,29 @@
 ## About me
 
-Born to be a coder. I wrote Hello World first time when I was 14 and now I can write it in C, C++, Java, Javascript, python, visual basic, C# and still learning new ways to write it. :)
-When I am not coding you can find me playing Badminton, Table tennis, Carrom, and Chess.
+<img src="https://i.ibb.co/Vxmhp4J/voldemort.jpg" alt="voldemort" border="0" style ="float:left;"></a>
+Born to be a coder. I wrote Hello World first time when I was 14 and now I can write it in C, C++, Java, Javascript, python, visual basic, C# and still learning new ways to write it.<br>
+When I am not coding you can find me playing Badminton, Table tennis, Carrom, and Chess.<br>
 I turn into a philospher after few drinks and can debate you on the Life, Death, Happiness, sprituality etc. 
 
 ## What I Do?
 
-I am working as the Technical Lead at Applozic Inc. With almost 5 years of experience in all aspects of Design and Development of web-based enterprise applications, web services and AI-Powered Chatbots. Skilled in SQL, Mongo DB, Java EE, Node.js, React, Javascript. Bachelor of Technology focused in Computer Science from G.B.Pant Engg. College Pauri Garhwal.
+I am working as the Technical Lead at Applozic Inc. With almost 5 years of experience in all aspects of Design and Development of web-based enterprise applications, web services and AI-Powered Chatbots. Skilled in SQL, Mongo DB, Java EE, Node.js, React, Javascript.
 
-<strong stype= "margin:auto center;">Get Into My Mind</strong>
+## What I have done so far
+
+
+* Kommunicate: Human + Bot Hybrid Customer Support Software
+  Technical Lead At Applozic Inc, since June 2017
+  My Team works on building saclable APIs and amazing user experience for Kommunicate users. I helped to carry out the top to   bottom designing and implementation of the backend server and Dialogflow integration. Currently my team is working on the     Kommunicate chat bot platform to help customer support agents to automate their daily tasks.  
+
+* GPS Vehicle tracking
+   Software Engineer at Azuga Inc Nov, 2014 to May, 2017
+   Worked on the GPS vehicle tracking project and helped to implement scalable microservices. Worked on google location services to solve some real world problems while tracking the vehicles. Worked on the API security, Oauth 2.0 protocol and built a single sign on system on top of Oauth 2.0.  
+   
+
+## Get into my brain
+
+While working on the Oauth 2.0, I dove deep into Oauth 2.0 specification, I have summerized my learnings in a blog published into several publication. You can read it below:   
 
  <a href="https://dzone.com/articles/oauth-20-beginners-guide">Oauth 2.0 beginners guide</a>
 
@@ -17,6 +32,8 @@ I am working as the Technical Lead at Applozic Inc. With almost 5 years of exper
 
 
 ### Markdown
+
+Bachelor of Technology focused in Computer Science from G.B.Pant Engg. College Pauri Garhwal.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
