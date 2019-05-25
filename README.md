@@ -11,7 +11,7 @@ I am working as the Technical Lead at Applozic Inc. With almost 5 years of exper
 
 ## What I have done so far
 
-<a href="https://Kommunicate.io"><img src="https://i.ibb.co/tx0YDGb/Screenshot-2019-05-25-at-3-45-59-PM.png" alt="Screenshot-2019-05-25-at-3-45-59-PM" border="0" style ="float:left; padding: 20px 40px; height: 125px; width:125px"></a>
+<a href="https://Kommunicate.io"><img src="https://i.ibb.co/tx0YDGb/Screenshot-2019-05-25-at-3-45-59-PM.png" alt="Screenshot-2019-05-25-at-3-45-59-PM" border="0" style ="float:left; padding: 20px 40px"></a>
 <strong>Kommunicate: Human + Bot Hybrid Customer Support Software </strong> <br>
   Technical Lead At Applozic Inc, since June 2017<br>
   My Team works on building saclable APIs and amazing user experience for Kommunicate users. I helped to carry out the top to   bottom designing and implementation of the backend server and Dialogflow integration. Currently my team is working on the     Kommunicate chat bot platform to help customer support agents to automate their daily tasks. <br> <br>
@@ -26,42 +26,15 @@ I am working as the Technical Lead at Applozic Inc. With almost 5 years of exper
 
 While working on the Oauth 2.0, I dove deep into Oauth 2.0 specification, I have summerized my learnings in a blog published into several publication. You can read it below:   
 
-<a href="https://dzone.com/articles/oauth-20-beginners-guide"><img src="https://i.ibb.co/qFLQmqn/5220088-thumb.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px; height: 125px; width:125px " ></a>
- <a href="https://dzone.com/articles/oauth-20-beginners-guide">Oauth 2.0 beginners guide</a>
+<a href="https://dzone.com/articles/oauth-20-beginners-guide"><img src="https://i.ibb.co/qFLQmqn/5220088-thumb.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px" ></a> 
+OAuth stands for Open Authorization. It’s a free and open protocol, built on IETF standards and licenses from the Open Web Foundation. It allows users to share their private resources with a third party while keeping their own credentials secret. These resources could be photos..... [Read full article](https://dzone.com/articles/oauth-20-beginners-guide) <br><br>
 
 
- <a href="https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5">My first chat bot with Dialogflow</a>
+A Beginners guide to chat bot using dialogflow was written when I was working on the Dialogflow integration with Kommunicate. It summerise the basic steps, tool and technology used along with the source code link from github.
+<a href="https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5"><img src="https://i.ibb.co/qFNjZTF/1-k-L6-B1-Mf-NCnu4u-H0m9-D1-XYw.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px" ></a> 
+In this article I will show you how to create a simple Chatbot using Dialogflow. You will find here details about the tools and the technology used for the purpose. The article also has a walkthrough of Dialogflow (previously API.ai) and outlines the chronological flow.... [Read full article](https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5)
 
 
-### Markdown
-
-Bachelor of Technology focused in Computer Science from G.B.Pant Engg. College Pauri Garhwal.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suraj-Kumar/suraj-kumar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
