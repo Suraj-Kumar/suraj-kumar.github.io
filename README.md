@@ -48,7 +48,7 @@ In this article I will show you how to create a simple Chatbot using Dialogflow.
 
 <a href="https://www.linkedin.com/in/suraj-kumar-358317a3/"><img src="https://i.ibb.co/Yy3J9Xz/svvszaufolhr4jkwl7vz.jpg" alt="linkedin" border="0" style ="float:left; padding: 20px 20px">  </a>
 
-<a href="https://www.facebook.com/suraj.srk"><img src="https://i.ibb.co/grNSy6Z/c6f98156-65da-4ba4-92f0-26cbd42c82db-tbqkkp.png" alt="facebook" border="0" style ="float:left; padding: 20px 420px"></a>
+<a href="https://www.facebook.com/suraj.srk"><img src="https://i.ibb.co/grNSy6Z/c6f98156-65da-4ba4-92f0-26cbd42c82db-tbqkkp.png" alt="facebook" border="0" style ="float:left; padding: 20px 20px"></a>
 
 <a href="https://stackoverflow.com/users/3949639/suraj?tab=profile"><img src="https://i.ibb.co/FgZbz4m/stackoverflow.png" alt="stackoverflow" border="0" style ="float:left; padding: 20px 20px"></a>
 
