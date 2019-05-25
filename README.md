@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/Suraj-Kumar/suraj-kumar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Born to be a coder. I wrote Hello World first time when I was 14 and now I can write it in C, C++, Java, Javascript, python, visual basic, C# and still learning new ways to write it. :)
+When I am not coding you can find me playing Badminton, Table tennis, Carrom, and Chess.
+I turn into a philospher after few drinks and can debate you on the Life, Death, Happiness, sprituality etc. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I Do?
+
+I am working as the Technical Lead at Applozic Inc. With almost 5 years of experience in all aspects of Design and Development of web-based enterprise applications, web services and AI-Powered Chatbots. Skilled in SQL, Mongo DB, Java EE, Node.js, React, Javascript. Bachelor of Technology focused in Computer Science from G.B.Pant Engg. College Pauri Garhwal.
+
+<strong stype= "margin:auto center;">Get Into My Mind</strong>
+
+ <a href="https://dzone.com/articles/oauth-20-beginners-guide">Oauth 2.0 beginners guide</a>
+
+
+ <a href="https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5">My first chat bot with Dialogflow</a>
+
 
 ### Markdown
 
