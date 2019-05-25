@@ -27,7 +27,7 @@ I am working as the Technical Lead at Applozic Inc. With almost 5 years of exper
 While working on the Oauth 2.0, I dove deep into Oauth 2.0 specification, I have summerized my learnings in a blog published into several publication. You can read it below:   
 
 <a href="https://dzone.com/articles/oauth-20-beginners-guide"><img src="https://i.ibb.co/qFLQmqn/5220088-thumb.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px" ></a> 
-OAuth stands for Open Authorization. It’s a free and open protocol, built on IETF standards and licenses from the Open Web Foundation. It allows users to share their private resources with a third party while keeping their own credentials secret. These resources could be photos videos, contact lists, location and billing capabilities, and so on, and are usually stored with another service provider. OAuth does this by granting the requesting.... (client) applications a token, [Read full article](https://dzone.com/articles/oauth-20-beginners-guide) <br><br>
+OAuth stands for Open Authorization. It’s a free and open protocol, built on IETF standards and licenses from the Open Web Foundation. It allows users to share their private resources with a third party while keeping their own credentials secret. These resources could be photos videos, contact lists, location and billing capabilities, and so on, and are usually stored with another service provider. OAuth does this by granting the requesting(client) applications a token... [Read full article](https://dzone.com/articles/oauth-20-beginners-guide) <br><br>
 
 
 A Beginners guide to chat bot using dialogflow was written when I was working on the Dialogflow integration with Kommunicate. It summerise the basic steps, tool and technology used along with the source code link from github.
@@ -35,8 +35,15 @@ A Beginners guide to chat bot using dialogflow was written when I was working on
 <a href="https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5"><img src="https://i.ibb.co/qFNjZTF/1-k-L6-B1-Mf-NCnu4u-H0m9-D1-XYw.jpg" alt="5220088-thumb" border="0" style ="float:left; padding: 20px 40px" ></a> 
 In this article I will show you how to create a simple Chatbot using Dialogflow. You will find here details about the tools and the technology used for the purpose. The article also has a walkthrough of Dialogflow (previously API.ai) and outlines the chronological flow.... [Read full article](https://medium.com/engineering-applozic/beginners-guide-to-creating-chatbots-using-dialogflow-f56e9f6ddaf5)
 
+## This is my System
+
+* Pursue passions, not paychecks
+* Beleive in change
+* Priotise customer
+* Discus ideas, not person
+* Be lazy and stay hungry
 
 
-### Support or Contact
+## Get in a touch 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
